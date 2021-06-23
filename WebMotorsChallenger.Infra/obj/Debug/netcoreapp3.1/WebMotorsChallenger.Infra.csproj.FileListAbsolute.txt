@@ -1,0 +1,12 @@
+C:\projetos-pessoais\Desafio-Web-Motors\WebMotorsChallengerApi\WebMotorsChallenger.Infra\bin\Debug\netcoreapp3.1\WebMotorsChallenger.Domain.dll
+C:\projetos-pessoais\Desafio-Web-Motors\WebMotorsChallengerApi\WebMotorsChallenger.Infra\obj\Debug\netcoreapp3.1\WebMotorsChallenger.Infra.csprojAssemblyReference.cache
+C:\projetos-pessoais\Desafio-Web-Motors\WebMotorsChallengerApi\WebMotorsChallenger.Infra\obj\Debug\netcoreapp3.1\WebMotorsChallenger.Infra.AssemblyInfoInputs.cache
+C:\projetos-pessoais\Desafio-Web-Motors\WebMotorsChallengerApi\WebMotorsChallenger.Infra\obj\Debug\netcoreapp3.1\WebMotorsChallenger.Infra.AssemblyInfo.cs
+C:\projetos-pessoais\Desafio-Web-Motors\WebMotorsChallengerApi\WebMotorsChallenger.Infra\bin\Debug\netcoreapp3.1\WebMotorsChallenger.Infra.deps.json
+C:\projetos-pessoais\Desafio-Web-Motors\WebMotorsChallengerApi\WebMotorsChallenger.Infra\bin\Debug\netcoreapp3.1\WebMotorsChallenger.Infra.dll
+C:\projetos-pessoais\Desafio-Web-Motors\WebMotorsChallengerApi\WebMotorsChallenger.Infra\bin\Debug\netcoreapp3.1\WebMotorsChallenger.Infra.pdb
+C:\projetos-pessoais\Desafio-Web-Motors\WebMotorsChallengerApi\WebMotorsChallenger.Infra\bin\Debug\netcoreapp3.1\WebMotorsChallenger.Domain.pdb
+C:\projetos-pessoais\Desafio-Web-Motors\WebMotorsChallengerApi\WebMotorsChallenger.Infra\obj\Debug\netcoreapp3.1\WebMotorsChallenger.Infra.csproj.CoreCompileInputs.cache
+C:\projetos-pessoais\Desafio-Web-Motors\WebMotorsChallengerApi\WebMotorsChallenger.Infra\obj\Debug\netcoreapp3.1\WebMotorsChallenger.Infra.csproj.CopyComplete
+C:\projetos-pessoais\Desafio-Web-Motors\WebMotorsChallengerApi\WebMotorsChallenger.Infra\obj\Debug\netcoreapp3.1\WebMotorsChallenger.Infra.dll
+C:\projetos-pessoais\Desafio-Web-Motors\WebMotorsChallengerApi\WebMotorsChallenger.Infra\obj\Debug\netcoreapp3.1\WebMotorsChallenger.Infra.pdb

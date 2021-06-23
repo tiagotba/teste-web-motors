@@ -1,0 +1,9 @@
+C:\projetos-pessoais\Desafio-Web-Motors\WebMotorsChallengerApi\WebMotorsChallenger.Domain\bin\Debug\netcoreapp3.1\WebMotorsChallenger.Domain.deps.json
+C:\projetos-pessoais\Desafio-Web-Motors\WebMotorsChallengerApi\WebMotorsChallenger.Domain\bin\Debug\netcoreapp3.1\WebMotorsChallenger.Domain.dll
+C:\projetos-pessoais\Desafio-Web-Motors\WebMotorsChallengerApi\WebMotorsChallenger.Domain\bin\Debug\netcoreapp3.1\WebMotorsChallenger.Domain.pdb
+C:\projetos-pessoais\Desafio-Web-Motors\WebMotorsChallengerApi\WebMotorsChallenger.Domain\obj\Debug\netcoreapp3.1\WebMotorsChallenger.Domain.csprojAssemblyReference.cache
+C:\projetos-pessoais\Desafio-Web-Motors\WebMotorsChallengerApi\WebMotorsChallenger.Domain\obj\Debug\netcoreapp3.1\WebMotorsChallenger.Domain.AssemblyInfoInputs.cache
+C:\projetos-pessoais\Desafio-Web-Motors\WebMotorsChallengerApi\WebMotorsChallenger.Domain\obj\Debug\netcoreapp3.1\WebMotorsChallenger.Domain.AssemblyInfo.cs
+C:\projetos-pessoais\Desafio-Web-Motors\WebMotorsChallengerApi\WebMotorsChallenger.Domain\obj\Debug\netcoreapp3.1\WebMotorsChallenger.Domain.csproj.CoreCompileInputs.cache
+C:\projetos-pessoais\Desafio-Web-Motors\WebMotorsChallengerApi\WebMotorsChallenger.Domain\obj\Debug\netcoreapp3.1\WebMotorsChallenger.Domain.dll
+C:\projetos-pessoais\Desafio-Web-Motors\WebMotorsChallengerApi\WebMotorsChallenger.Domain\obj\Debug\netcoreapp3.1\WebMotorsChallenger.Domain.pdb

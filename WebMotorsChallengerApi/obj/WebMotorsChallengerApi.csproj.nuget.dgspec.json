@@ -1,0 +1,259 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\projetos-pessoais\\Desafio-Web-Motors\\WebMotorsChallengerApi\\WebMotorsChallengerApi\\WebMotorsChallengerApi.csproj": {}
+  },
+  "projects": {
+    "C:\\projetos-pessoais\\Desafio-Web-Motors\\WebMotorsChallengerApi\\WebMotorsChallenger.Domain\\WebMotorsChallenger.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projetos-pessoais\\Desafio-Web-Motors\\WebMotorsChallengerApi\\WebMotorsChallenger.Domain\\WebMotorsChallenger.Domain.csproj",
+        "projectName": "WebMotorsChallenger.Domain",
+        "projectPath": "C:\\projetos-pessoais\\Desafio-Web-Motors\\WebMotorsChallengerApi\\WebMotorsChallenger.Domain\\WebMotorsChallenger.Domain.csproj",
+        "packagesPath": "C:\\Users\\tiagoalves\\.nuget\\packages\\",
+        "outputPath": "C:\\projetos-pessoais\\Desafio-Web-Motors\\WebMotorsChallengerApi\\WebMotorsChallenger.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tiagoalves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Flunt": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.11.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\projetos-pessoais\\Desafio-Web-Motors\\WebMotorsChallengerApi\\WebMotorsChallenger.Infra\\WebMotorsChallenger.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projetos-pessoais\\Desafio-Web-Motors\\WebMotorsChallengerApi\\WebMotorsChallenger.Infra\\WebMotorsChallenger.Infra.csproj",
+        "projectName": "WebMotorsChallenger.Infra",
+        "projectPath": "C:\\projetos-pessoais\\Desafio-Web-Motors\\WebMotorsChallengerApi\\WebMotorsChallenger.Infra\\WebMotorsChallenger.Infra.csproj",
+        "packagesPath": "C:\\Users\\tiagoalves\\.nuget\\packages\\",
+        "outputPath": "C:\\projetos-pessoais\\Desafio-Web-Motors\\WebMotorsChallengerApi\\WebMotorsChallenger.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tiagoalves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\projetos-pessoais\\Desafio-Web-Motors\\WebMotorsChallengerApi\\WebMotorsChallenger.Domain\\WebMotorsChallenger.Domain.csproj": {
+                "projectPath": "C:\\projetos-pessoais\\Desafio-Web-Motors\\WebMotorsChallengerApi\\WebMotorsChallenger.Domain\\WebMotorsChallenger.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Dapper.DataAnnotations": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Dapper.FluentMap": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\projetos-pessoais\\Desafio-Web-Motors\\WebMotorsChallengerApi\\WebMotorsChallengerApi\\WebMotorsChallengerApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projetos-pessoais\\Desafio-Web-Motors\\WebMotorsChallengerApi\\WebMotorsChallengerApi\\WebMotorsChallengerApi.csproj",
+        "projectName": "WebMotorsChallengerApi",
+        "projectPath": "C:\\projetos-pessoais\\Desafio-Web-Motors\\WebMotorsChallengerApi\\WebMotorsChallengerApi\\WebMotorsChallengerApi.csproj",
+        "packagesPath": "C:\\Users\\tiagoalves\\.nuget\\packages\\",
+        "outputPath": "C:\\projetos-pessoais\\Desafio-Web-Motors\\WebMotorsChallengerApi\\WebMotorsChallengerApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tiagoalves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\projetos-pessoais\\Desafio-Web-Motors\\WebMotorsChallengerApi\\WebMotorsChallenger.Domain\\WebMotorsChallenger.Domain.csproj": {
+                "projectPath": "C:\\projetos-pessoais\\Desafio-Web-Motors\\WebMotorsChallengerApi\\WebMotorsChallenger.Domain\\WebMotorsChallenger.Domain.csproj"
+              },
+              "C:\\projetos-pessoais\\Desafio-Web-Motors\\WebMotorsChallengerApi\\WebMotorsChallenger.Infra\\WebMotorsChallenger.Infra.csproj": {
+                "projectPath": "C:\\projetos-pessoais\\Desafio-Web-Motors\\WebMotorsChallengerApi\\WebMotorsChallenger.Infra\\WebMotorsChallenger.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Dapper.DataAnnotations": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Dapper.FluentMap": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            },
+            "Swashbuckle.Core": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.10.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
